@@ -379,4 +379,269 @@ Changes not staged for commit:
 [1m--- a/my_git_session[m[m
 [1m+++ b/my_git_session[m[m
 [36m@@ -299,4 +299,61 @@[m [mChanges not staged for commit:[m[m
- :[7m^M[27m[32m+[m[32m[7m^M[27m[m[39;49m[39;49m[m[0;7m[ Reading... ][m[0;7m[ Read 1 line ][m[0;7m  GNU nano 7.2                                              README.md                   [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m    [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                                [m[7m^M[27m[0;7m^G[m Help[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute     [0;7m^C[m Location    [0;7mM-U[m Undo[0;7mM-[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mA[m Set M[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mark[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Paste[0;7m^J[m Justify     [0;7m^/[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy[7m^M[27mGit Assignment R[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27mepository[7m^[27m[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m^M[27mGit Assignment Repo[7m^M[27mitory[0;7m*[m[7m^M[27mNew line added[0;7mM-D[m DOS Format        [0;7mM-A[m Append[0;7mM-B[m Backup File[0;7mC[m Cancel[0;7mM-M[m Mac For[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mmat          [0;7mM[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m-P[m Prepend[0;7m^T[m Browse[7m^M[27m[0;7mFile Name to Write: README.md                                                        [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m                  [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m                     [m [0;7m[ Writing... ][m[0;7m [m[0;7m[ Wrote 2 lines ][m[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute  [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m   [0;7m^C[m Location    [0;7mM-U[m [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[
+ :[7m^M[27m[32m+[m[32m[7m^M[27m[m[39;49m[39;49m[m[0;7m[ Reading... ][m[0;7m[ Read 1 line ][m[0;7m  GNU nano 7.2                                              README.md                   [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m    [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                                [m[7m^M[27m[0;7m^G[m Help[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute     [0;7m^C[m Location    [0;7mM-U[m Undo[0;7mM-[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mA[m Set M[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mark[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Paste[0;7m^J[m Justify     [0;7m^/[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy[7m^M[27mGit Assignment R[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27mepository[7m^[27m[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m^M[27mGit Assignment Repo[7m^M[27mitory[0;7m*[m[7m^M[27mNew line added[0;7mM-D[m DOS Format        [0;7mM-A[m Append[0;7mM-B[m Backup File[0;7mC[m Cancel[0;7mM-M[m Mac For[m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mmat          [0;7mM[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m-P[m Prepend[0;7m^T[m Browse[7m^M[27m[0;7mFile Name to Write: README.md                                                        [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m                  [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m                     [m [0;7m[ Writing... ][m[0;7m [m[0;7m[ Wrote 2 lines ][m[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute  [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m   [0;7m^C[m Location    [0;7mM-U[m [m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mUndo       [0;7mM-A[m Set Mark[0;7mX[m Exit  [0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Paste[0;7m^J[m Justify     [0;7m^/[m Go To Line [m [32m[m[32m[7m[27m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[7m[27m[0;7m[m[7m[27m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m[27m[0;7m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m [0;7mM-E[m Redo       [0;7mM-6[m Copy[7m^M[27m[m:[7m^M[27m[32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mw[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m^M[27makeshsta@TIGER05142: ~/git_assignment[7m^G[27m[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ nano CONTRIBUT[m :[K[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README.md[m
+	[32mnew file:   my_git_session[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add my_git_session 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add my_git_session status[K[2Pdiff
+[?2004l[?1h=[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mindex 7b1a2d3..e8eb0e2 100644[m[m
+[1m--- a/CONTRIBUTING.md[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -1,4 +1,4 @@[m[m
+ Test file[m[m
+ Second line of CONTRIBUTING.md[m[m
+ Third line of CONTRIBUTING.md[m[m
+[31m-Fourth Line[m[m
+[32m+[m[32mFourth Line - Updated[m[m
+[1mdiff --git a/README.md b/README.md[m[m
+[1mindex 0c6c9ed..d952c29 100644[m[m
+[1m--- a/README.md[m[m
+[1m+++ b/README.md[m[m
+[36m@@ -1 +1,2 @@[m[m
+ Git Assignment Repository[m[m
+[32m+[m[32mNew line added[m[m
+[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git diff --cached [K
+[?2004l[?1h=[1mdiff --git a/.gitignore b/.gitignore[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..f05287e[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/.gitignore[m[m
+[36m@@ -0,0 +1,2 @@[m[m
+[32m+[m[32m*.[oa][m[m
+[32m+[m[32m*~[m[m
+[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..7b1a2d3[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1,4 @@[m[m
+[32m+[m[32mTest file[m[m
+[32m+[m[32mSecond line of CONTRIBUTING.md[m[m
+[32m+[m[32mThird line of CONTRIBUTING.md[m[m
+[32m+[m[32mFourth Line[m[m
+[1mdiff --git a/README.md b/README.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..0c6c9ed[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mGit Assignment Repository[m[m
+[1mdiff --git a/my_git_session b/my_git_session[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..e4b6e60[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/my_git_session[m[m
+:[K[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README.md[m
+	[32mnew file:   my_git_session[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git commit -v
+[?2004lhint: Waiting for your editor to close the file... [K[main (root-commit) 0254bdf] Commit with "git commit -v"
+ 4 files changed, 389 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 README.md
+ create mode 100644 my_git_session
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ exho[K[K[Kcho >>[K[K""S"a"m"p"l"e" "p"r"o"j"e"c"t" "d"o"c"u"m"e"n"t"a"t"i"o"n"[C >> Projects.md
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add -A[K[KProjects.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git commit -m "Added projects.md[1Projects.mdProjects.md[C[C[C[C[C[C[C[C[C[C"
+[?2004l[main 4c6c6f1] Added Projects.md
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Projects.md
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ echo "New project[K[K[K[K[K[K[KProject documentation for testing git[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@f[1@i[1@l[1@e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C rm command" >> NewProjects.md
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add NewProjects.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add NewProjects.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   NewProjects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ ls
+[?2004lCONTRIBUTING.md  NewProjects.md  Projects.md  README.md  my_git_session
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git em Projects.md[1P[1@r[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lrm 'Projects.md'
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ ls
+[?2004lCONTRIBUTING.md  NewProjects.md  README.md  my_git_session
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   NewProjects.md[m
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   NewProjects.md[m
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git rim[K[Km NewProjects.md 
+[?2004lerror: the following file has changes staged in the index:
+    NewProjects.md
+(use --cached to keep the file, or -f to force removal)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ fi[K[Kgit restore --staged NewProjects.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mNewProjects.md[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git statusrestore --staged NewProjects.md status[K[K[K[K[K[K[Kadd NewProjects.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git rm CONTRIBUTING.md 
+[?2004lerror: the following file has local modifications:
+    CONTRIBUTING.md
+(use --cached to keep the file, or -f to force removal)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   NewProjects.md[m
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git rm -f NE[KewProjects.md [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-cached NewProjects.md 
+[?2004lrm 'NewProjects.md'
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git rm --cached NewProjects.md status[K
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   README.md[m
+	[31mmodified:   my_git_session[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mNewProjects.md[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ cat Re[KEADME.md 
+[?2004lGit Assignment Repository
+New line added
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git restore README.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Projects.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+	[31mmodified:   my_git_session[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mNewProjects.md[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ cat README.md 
+[?2004lGit Assignment Repository
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git mv README.md README
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Projects.md[m
+	[32mrenamed:    README.md -> README[m
+
+Changes not staged for commit:
+  (use "git add <fi
