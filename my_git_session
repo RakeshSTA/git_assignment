@@ -937,4 +937,68 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 [?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ nano README.md 
-[?2004l[?2004h[?1049h[22;0;0t[1;31r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[29;56H(B[0;7m[ Reading... ](B[m[29;55H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 7.2                                              README.md                                                       [1;123H(B[m[30d(B[0;7m^G(B[m Help[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B
+[?2004l[?2004h[?1049h[22;0;0t[1;31r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[29;56H(B[0;7m[ Reading... ](B[m[29;55H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 7.2                                              README.md                                                       [1;123H(B[m[30d(B[0;7m^G(B[m Help[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[31d(B[0;7m^X(B[m Exit[31;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dGit Assignment Repository[?12l[?25h[?25l[?12l[?25hG[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hA[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25hi[?25l[?12l[?25hg[?25l[?12l[?25hn[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hn[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hR[?25l[?12l[?25he[?25l[?12l[?25hp[?25l[?12l[?25ho[?25l[29d[K[?12l[?25h[2;21H[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25hy[?25l[1;71H(B[0;7m*[123G(B[m[3d[?12l[?25h[?25l[?12l[?25hA[?25l[?12l[?25hd[?25l[?12l[?25hd[?25l[?12l[?25he[?25l[?12l[?25hd[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25h [?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25hw[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hf[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25h [?25l[?12l[?25hC[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25h2[?25l[?12l[?25h.[?25l[?12l[?25h4[?25l[30;16H[16X[30;32H(B[0;7mM-D(B[m DOS Format      [30;61H  (B[0;7mM-A(B[m Append[21X[30;94H(B[0;7mM-B(B[m Backup File[K[31;2H(B[0;7mC(B[m Cancel[16G[16X[31;32H(B[0;7mM-M(B[m Mac Format        [61G  (B[0;7mM-P(B[m Prepend[20X[31;94H(B[0;7m^T(B[m Browse[K[29d(B[0;7mFile Name to Write: README.md                                                                                               [29;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[29;55H[1K (B[0;7m[ Writing... ](B[m[K[1;71H(B[0;7m [123G(B[m[29;54H(B[0;7m[ Wrote 2 lines ](B[m[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo       (B[0;7mM-A(B[m Set Mark[31;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy[?12l[?25h[3;28H[?25l[29d[J[31d[?12l[?25h[31;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add -A
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   README.md[m
+	[32mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add[K[K[Kcommit --ammend[1Pend[C[C[C
+[?2004lhint: Waiting for your editor to close the file... [K[main aeaacc7] Ch2.4 commit 1 with amended changes to README.md
+ Date: Sun Oct 13 12:53:52 2024 +0000
+ 3 files changed, 296 insertions(+), 2 deletions(-)
+ delete mode 100644 README
+ create mode 100644 README.md
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tat[K[K[Kstatus
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ nano CONTRIBUTING.md 
+[?2004l[?2004h[?1049h[22;0;0t[1;31r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[29;56H(B[0;7m[ Reading... ](B[m[29;55H(B[0;7m[ Read 4 lines ](B[m[H(B[0;7m  GNU nano 7.2                                           CONTRIBUTING.md                                                    [1;123H(B[m[30d(B[0;7m^G(B[m Help[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[31d(B[0;7m^X(B[m Exit[31;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dTest file[3dSecond line of CONTRIBUTING.md[4dThird line of CONTRIBUTING.md[5dFourth Line - Updated[2d[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;74H(B[0;7m*[123G(B[m[?12l[?25h[6dA[?25l[?12l[?25hd[?25l[?12l[?25hd[?25l[?12l[?25he[?25l[?12l[?25hd[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25h [?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[29d[K[?12l[?25h[6;13Ht[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[30;16H[16X[30;32H(B[0;7mM-D(B[m DOS Format      [30;61H  (B[0;7mM-A(B[m Append[21X[30;94H(B[0;7mM-B(B[m Backup File[K[31;2H(B[0;7mC(B[m Cancel[16G[16X[31;32H(B[0;7mM-M(B[m Mac Format        [61G  (B[0;7mM-P(B[m Prepend[20X[31;94H(B[0;7m^T(B[m Browse[K[29d(B[0;7mFile Name to Write: CONTRIBUTING.md                                                                                         [29;36H(B[m[?12l[?25h[?25l[29;55H[1K (B[0;7m[ Writing... ](B[m[K[1;74H(B[0;7m [123G(B[m[29;54H(B[0;7m[ Wrote 5 lines ](B[m[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo       (B[0;7mM-A(B[m Set Mark[31;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy[?12l[?25h[6;20H[?25l[29d[J[31d[?12l[?25h[31;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add C[K*[K[K[K[K[K[K[K[K[Knano README.md 
+[?2004l[?2004h[?1049h[22;0;0t[1;31r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[29;56H(B[0;7m[ Reading... ](B[m[29;55H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 7.2                                              README.md                                                       [1;123H(B[m[30d(B[0;7m^G(B[m Help[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[31d(B[0;7m^X(B[m Exit[31;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dGit Assignment Repository[3dAdded a new line for Ch 2.4[A[?12l[?25h[?25l[?12l[?25hG[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hA[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25hi[?25l[?12l[?25hg[?25l[?12l[?25hn[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hn[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hR[?25l[?12l[?25he[?25l[?12l[?25hp[?25l[?12l[?25h[3d[?25l[29d[K[?12l[?25h[3;20H[?25l[?12l[?25hr[?25l[?12l[?25h [?25l[?12l[?25hC[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25h2[?25l[?12l[?25h.[?25l[?12l[?25h4[?25l[1;71H(B[0;7m*[123G(B[m[4d[?12l[?25h[?25l[?12l[?25hA[?25l[?12l[?25hd[?25l[?12l[?25hd[?25l[?12l[?25he[?25l[?12l[?25hd[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25ho[?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25hr[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[30;16H[16X[30;32H(B[0;7mM-D(B[m DOS Format      [30;61H  (B[0;7mM-A(B[m Append[21X[30;94H(B[0;7mM-B(B[m Backup File[K[31;2H(B[0;7mC(B[m Cancel[16G[16X[31;32H(B[0;7mM-M(B[m Mac Format        [61G  (B[0;7mM-P(B[m Prepend[20X[31;94H(B[0;7m^T(B[m Browse[K[29d(B[0;7mFile Name to Write: README.md                                                                                               [29;30H(B[m[?12l[?25h[?25l[29;55H[1K (B[0;7m[ Writing... ](B[m[K[1;71H(B[0;7m [123G(B[m[29;54H(B[0;7m[ Wrote 3 lines ](B[m[30;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[30;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo       (B[0;7mM-A(B[m Set Mark[31;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy[?12l[?25h[4;20H[?25l[29d[J[31d[?12l[?25h[31;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add *
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   CONTRIBUTING.md[m
+	[32mmodified:   README.md[m
+	[32mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git restore --staged CONTRIBUTING.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   README.md[m
+	[32mmodified:   my_git_session[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git restore CONTRIBUTING.md 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   README.md[m
+	[32mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git add -A
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   README.md[m
+	[32mmodified:   my_git_session[m
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git commit -m "Ch2.4 completed"
+[?2004l[main 3345f2d] Ch2.4 completed
+ 2 files changed, 24 insertions(+), 1 deletion(-)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/g
