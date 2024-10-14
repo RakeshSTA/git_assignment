@@ -1,1 +1,3 @@
-First line of the test file
+First line of the test file. This is the continuation of the first line.
+Modified first line and added another 2 lines in issu53.
+Third line added in issu53. 
