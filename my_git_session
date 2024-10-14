@@ -1001,4 +1001,179 @@ Changes to be committed:
 [?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git commit -m "Ch2.4 completed"
 [?2004l[main 3345f2d] Ch2.4 completed
  2 files changed, 24 insertions(+), 1 deletion(-)
-[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/g
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   my_git_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status[K[K[K[K[K[K[K[K[K[Ka[Kgit add my_git_session 
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git commit --amend
+[?2004lhint: Waiting for your editor to close the file... [K[main 612c781] Ch2.4 completed
+ Date: Sun Oct 13 13:11:50 2024 +0000
+ 2 files changed, 66 insertions(+), 1 deletion(-)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ exit
+[?2004lexit
+
+Script done on 2024-10-13 13:12:33+00:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-10-14 05:39:49+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="124" LINES="31"]
+[?2004h]0;rakeshsta@TIGER05142: ~[01;32mrakeshsta@TIGER05142[00m:[01;34m~[00m$ [7mgit remote add origin https://github.com/RakeshSTA/git_assignment[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/RakeshSTA/git_assignment
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;rakeshsta@TIGER05142: ~[01;32mrakeshsta@TIGER05142[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mgit_assignment[0m  [01;34mtamlep-rs[0m
+[?2004h]0;rakeshsta@TIGER05142: ~[01;32mrakeshsta@TIGER05142[00m:[01;34m~[00m$ cd git_assignment/
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ ls
+[?2004lCONTRIBUTING.md  NewProjects.md  README.md  my_git_session
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   my_git_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ [7mgit remote add origin https://github.com/RakeshSTA/git_assignment[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/RakeshSTA/git_assignment
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote
+[?2004lorigin
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote -v
+[?2004lorigin	https://github.com/RakeshSTA/git_assignment (fetch)
+origin	https://github.com/RakeshSTA/git_assignment (push)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote -v[K show
+[?2004lorigin
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote show origin 
+[?2004l* remote origin
+  Fetch URL: https://github.com/RakeshSTA/git_assignment
+  Push  URL: https://github.com/RakeshSTA/git_assignment
+  HEAD branch: (unknown)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git fetch origin
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ ls
+[?2004lCONTRIBUTING.md  NewProjects.md  README.md  my_git_session
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git config pull.rebase
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git --version
+[?2004lgit version 2.43.0
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ [7mgit remote rename origin neworigin[27mgit remote rename origin neworigin
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote
+[?2004lneworigin
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote rename origin neworigin[1Pneworigin[1Peworigin[1Pneworigin[1Pneworigin[1Pneworigin[1Pneworigin[1Pneworigin[C[C[C[C[C[C[C[C[C origin
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag
+[?2004l[?1h=[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag v0.1
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git shot v0.1
+[?2004lgit: 'shot' is not a git command. See 'git --help'.
+
+The most similar command is
+	show
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git shot v0.1[C[1P v0.1w v0.1
+[?2004l[?1h=[33mcommit 612c781d4efae0a74091285543c4037fcc4af4cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv0.1[m[33m)[m[m
+Author: RakeshSTA <rakesh.sukumar@tigeranalytics.com>[m
+Date:   Sun Oct 13 13:11:50 2024 +0000[m
+[m
+    Ch2.4 completed[m
+[m
+[1mdiff --git a/README.md b/README.md[m[m
+[1mindex 1dd3e63..82cfc1d 100644[m[m
+[1m--- a/README.md[m[m
+[1m+++ b/README.md[m[m
+[36m@@ -1,2 +1,3 @@[m[m
+ Git Assignment Repository[m[m
+ Added a new line for Ch 2.4[m[m
+[32m+[m[32mAdded another line.[m[m
+[1mdiff --git a/my_git_session b/my_git_session[m[m
+[1mindex b9ca4c0..773dd0e 100644[m[m
+[1m--- a/my_git_session[m[m
+[1m+++ b/my_git_session[m[m
+[36m@@ -937,4 +937,68 @@[m [mChanges not staged for commit:[m[m
+ [m[m
+ no changes added to commit (use "git add" and/or "git commit -a")[m[m
+ akeshsta@TIGER05142: ~/git_assignment[7m^G[27m[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ nano README.md [m[m
+[31m-[7m^M[27m[m[39;49m[39;49m[m[0;7m[ Reading... ][m[0;7m[ Read 1 line ][m[0;7m  GNU nano 7.2                                              README.md                       [m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                                [m[7m^M[27m[0;7m^G[m Help[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute     [m[m
+\ No newline at end of file[m[m
+[32m+[m[32m[7m^M[27m[m[39;49m[39;49m[m[0;7m[ Reading... ][m[0;7m[ Read 1 line ][m[0;7m  GNU nano 7.2                                              README.md                       [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                                [m[7m^M[27m[0;7m^G[m Help[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut[0;7m^T[m Execute     [0;7m^C[m Location    [0;7mM-U[m Undo[0;7mM-A[m Set M[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mark[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Paste[0;7m^J[m Justify     [0;7m^/[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy[7m^M[27mGit Assignment Repository[7m^[27m[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[7m^M[27mGit Assignment Repo[7m^M[27mitory[0;7m*[m[7m^M[27mAdded a new line for Ch 2.4[0;7mM-D[m DOS Format        [0;7mM-A[m Append[0;7mM-B[m Backup File[0;7mC[m Cancel[0;7mM-M[m Mac For[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mmat          [0;7mM-P[m Prepend[0;7m^T[m Browse[7m^M[27m[0;7mFile Name to Write: README.md                                                            [m :[K[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git log --pretty=oneline
+[?2004l[?1h=[33m612c781d4efae0a74091285543c4037fcc4af4cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv0.1[m[33m)[m Ch2.4 completed[m
+[33maeaacc75b5ed447b22212936bb5c94bd77a464fe[m Ch2.4 commit 1 with amended changes to README.md[m
+[33m9ed693867b126d0e55635c09e8917752a35b35f4[m Chapter 2.2 completed[m
+[33m4c6c6f1f756a8a36a0ce539ba2b25146f24b5739[m Added Projects.md[m
+[33m0254bdf533bd2d3827e13f030b96bd5b96a71d5d[m Commit with "git commit -v"[m
+[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag -a v0.01 4c6c6f1
+[?2004lhint: Waiting for your editor to close the file... [K[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag -a v0.01 4c6c6f1log --pretty=oneline
+[?2004l[?1h=[33m612c781d4efae0a74091285543c4037fcc4af4cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv0.1[m[33m)[m Ch2.4 completed[m
+[33maeaacc75b5ed447b22212936bb5c94bd77a464fe[m Ch2.4 commit 1 with amended changes to README.md[m
+[33m9ed693867b126d0e55635c09e8917752a35b35f4[m Chapter 2.2 completed[m
+[33m4c6c6f1f756a8a36a0ce539ba2b25146f24b5739[m[33m ([m[1;33mtag: [m[1;33mv0.01[m[33m)[m Added Projects.md[m
+[33m0254bdf533bd2d3827e13f030b96bd5b96a71d5d[m Commit with "git commit -v"[m
+[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git show v0.01
+[?2004l[?1h=[33mtag v0.01[m[m
+Tagger: RakeshSTA <rakesh.sukumar@tigeranalytics.com>[m
+Date:   Mon Oct 14 06:52:30 2024 +0000[m
+[m
+first tag v0.01[m
+[m
+[33mcommit 4c6c6f1f756a8a36a0ce539ba2b25146f24b5739[m[33m ([m[1;33mtag: [m[1;33mv0.01[m[33m)[m[m
+Author: RakeshSTA <rakesh.sukumar@tigeranalytics.com>[m
+Date:   Sun Oct 13 12:01:13 2024 +0000[m
+[m
+    Added Projects.md[m
+[m
+[1mdiff --git a/Projects.md b/Projects.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..583a8ec[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/Projects.md[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mSample project documentation[m[m
+[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   my_git_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git push
+[?2004lfatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote
+[?2004lorigin
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git remote[Kgit remote -v
+[?2004lorigin	https://github.com/RakeshSTA/git_assignment (fetch)
+origin	https://github.com/RakeshSTA/git_assignment (push)
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ [7mgit push --set-upstream origin main[27mgit push --set-upstream origin main
+[?2004lEnumerating objects: 22, done.
+Counting objects:   4% (1/22)Counting objects:   9% (2/22)Counting objects:  13% (3/22)Counting objects:  18% (4/22)Counting objects:  22% (5/22)Counting objects:  27% (6/22)Counting objects:  31% (7/22)Counting objects:  36% (8/22)Counting objects:  40% (9/22)Counting objects:  45% (10/22)Counting objects:  50% (11/22)Counting objects:  54% (12/22)Counting objects:  59% (13/22)Counting objects:  63% (14/22)Counting objects:  68% (15/22)Counting objects:  72% (16/22)Counting objects:  77% (17/22)Counting objects:  81% (18/22)Counting objects:  86% (19/22)Counting objects:  90% (20/22)Counting objects:  95% (21/22)Counting objects: 100% (22/22)Counting objects: 100% (22/22), done.
+Delta compression using up to 12 threads
+Compressing objects:   5% (1/18)Compressing objects:  11% (2/18)Compressing objects:  16% (3/18)Compressing objects:  22% (4/18)Compressing objects:  27% (5/18)Compressing objects:  33% (6/18)Compressing objects:  38% (7/18)Compressing objects:  44% (8/18)Compressing objects:  50% (9/18)Compressing objects:  55% (10/18)Compressing objects:  61% (11/18)Compressing objects:  66% (12/18)Compressing objects:  72% (13/18)Compressing objects:  77% (14/18)Compressing objects:  83% (15/18)Compressing objects:  88% (16/18)Compressing objects:  94% (17/18)Compressing objects: 100% (18/18)Compressing objects: 100% (18/18), done.
+Writing objects:   4% (1/22)Writing objects:   9% (2/22)Writing objects:  13% (3/22)Writing objects:  18% (4/22)Writing objects:  22% (5/22)Writing objects:  27% (6/22)Writing objects:  31% (7/22)Writing objects:  36% (8/22)Writing objects:  40% (9/22)Writing objects:  45% (10/22)Writing objects:  50% (11/22)Writing objects:  54% (12/22)Writing objects:  59% (13/22)Writing objects:  63% (14/22)Writing objects:  68% (15/22)Writing objects:  72% (16/22)Writing objects:  77% (17/22)Writing objects:  81% (18/22)Writing objects:  86% (19/22)Writing objects:  90% (20/22)Writing objects:  95% (21/22)Writing objects: 100% (22/22)Writing objects: 100% (22/22), 10.08 KiB | 3.36 MiB/s, done.
+Total 22 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/8)[Kremote: Resolving deltas:  12% (1/8)[Kremote: Resolving deltas:  25% (2/8)[Kremote: Resolving deltas:  37% (3/8)[Kremote: Resolving deltas:  50% (4/8)[Kremote: Resolving deltas:  62% (5/8)[Kremote: Resolving deltas:  75% (6/8)[Kremote: Resolving deltas:  87% (7/8)[Kremote: Resolving deltas: 100% (8/8)[Kremote: Resolving deltas: 100% (8/8), done.[K
+To https://github.com/RakeshSTA/git_assignment
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git push --[K[Korigin --tg[Kags[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K tag
+[?2004l[?1h=v0.01[m
+v0.1[m
+[K[?1l>[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag ot[Krigin/main
+[?2004l[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag origin/main[Kpush --set-upstream origin maintag[K[K[K[Kpusg[Kh --tagso--tagsr--tagsi--tagsg--tagsi--tagsn--tags --tags[C[C[C[C[C[C
+[?2004lEnumerating objects: 1, done.
+Counting objects: 100% (1/1)Counting objects: 100% (1/1), done.
+Writing objects: 100% (1/1)Writing objects: 100% (1/1), 170 bytes | 170.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/RakeshSTA/git_assignment
+ * [new tag]         origin/main -> origin/main
+ * [new tag]         v0.01 -> v0.01
+ * [new tag]         v0.1 -> v0.1
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git push origin --tags[3Ptag origin/main
+[?2004lfatal: tag 'origin/main' already exists
+[?2004h]0;rakeshsta@TIGER05142: ~/git_assignment[01;32mrakeshsta@TIGER05142[00m:[01;34m~/git_assignment[00m$ git tag -d origin/main [K
+[?2004lDeleted tag 'origin/main' (was 612c781)
+[?2004h]0;rakeshsta@TIGER05142: ~/g
