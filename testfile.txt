@@ -1,1 +1,2 @@
-First line of the test file
+This is the first line of the test file.
+Modified the first line and added second line in hotfix branch.
