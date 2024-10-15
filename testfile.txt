@@ -2,3 +2,6 @@ This is the first line of the test file. This is the continuation of the first l
 Modified the first line and added another 2 line one in hotfix branch and another in issu53 branch.
 Third line added in issu53.
 This is a hot fix
+New line added in cool_branch
+Another new line added in cool_branch
+A new line added in a new commit.
