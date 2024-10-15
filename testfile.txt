@@ -3,3 +3,4 @@ Modified the first line and added another 2 line one in hotfix branch and anothe
 Third line added in issu53.
 New line added in cool_branch
 Another new line added in cool_branch
+A new line added in a new commit.
